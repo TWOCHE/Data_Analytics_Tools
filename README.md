@@ -29,7 +29,8 @@ Our project will serve as a great resource for those with advanced knowledge in 
 
 🔵 
 <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" width="30" height="30" />
-[SQL](https://drive.google.com/drive/folders/1tiISS_-ylyenGsAQZ0rr9-LtaX39ZUW9?usp=drive_link "SQL Part" )
+[SQL](https://drive.google.com/drive/folders/1tiISS_-ylyenGsAQZ0rr9-LtaX39ZUW9 "SQL Part" )
+
 ---
 
 🔵 
