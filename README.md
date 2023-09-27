@@ -35,19 +35,19 @@ Our project will serve as a great resource for those with advanced knowledge in 
 
 🔵 
 <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-File.png" width="30" height="30" />
-[Power BI](https://drive.google.com/drive/folders/1x90HSZcYdikPzcGzQvXD4x6WOoePaLIp?usp=drive_link "Power BI Part")
+[Power BI](https://drive.google.com/drive/folders/1VOi7QaWVFB26R90xddzj2A4cVawJYZf5 "Power BI Part")
 
 ---
 
 🔵 
 <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="30" height="30" />
-[Tableau](https://drive.google.com/drive/folders/1AgdvuKAA_FpPnROniEr0MDLv7dqs0Cf5?usp=drive_link "Tableau Part")
+[Tableau](https://drive.google.com/drive/folders/17Iq2G0yxQxduJhKsHeOS4zgsYoGk3lm_ "Tableau Part")
 
 ---
 
 🔵 
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256983/file-type-qlikview-icon-md.png" width="30" height="30" />
-[Qlik Sense](https://drive.google.com/drive/folders/1FK_YhhluYaAYw4H7-TkwsXvQ7WpX2SJY?usp=drive_link "Qlik Sense Part")
+[Qlik Sense](https://drive.google.com/drive/folders/1LeDgFcogKOq6TryXx8AuLODOs78Zojdq "Qlik Sense Part")
 
 ---
 
