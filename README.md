@@ -58,5 +58,5 @@ Our project will serve as a great resource for those with advanced knowledge in 
 ---
 
 🔵 
-<img src="https://icones.pro/wp-content/uploads/2021/03/icone-pdf-symbole-png-rouge.png" width="30" height="30" />
+<img src="https://icones.pro/wp-content/uploads/2021/03/icone-video-symbole-png-rouge.png" width="30" height="30" />
 [Final Summary](https://drive.google.com/file/d/1J4huevKEF_dRnHplU96-XpiK-s3aaeqS/view?usp=drive_link "Final Summary")
