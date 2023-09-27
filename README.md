@@ -54,6 +54,7 @@ Our project will serve as a great resource for those with advanced knowledge in 
 🔵 
 <img src="https://icones.pro/wp-content/uploads/2021/03/icone-pdf-symbole-png-rouge.png" width="30" height="30" />
 [Details](https://drive.google.com/file/d/1tr4nkhX4Tn0q4EKuMmLwmC1UullDuQej/view?usp=sharing "Info")
+
 ---
 
 🔵 
